@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090749696839",
+    "project_id": "cinotopup",
+    "storage_bucket": "cinotopup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090749696839:android:3ad52c4ffd9b0796b65a62",
+        "android_client_info": {
+          "package_name": "com.example.cinotopup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090749696839-gboeprk4ufullljj3cir8vcups2iothi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEA1wgqerbd6DlftT2JXskJe-C_haa628"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090749696839-gboeprk4ufullljj3cir8vcups2iothi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
